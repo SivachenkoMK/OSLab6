@@ -1,0 +1,3 @@
+g++ -o lab61 OSLab6-1.cpp -pthread
+g++ -o lab62 OSLab6-2.cpp -pthread
+We need -pthread to enable multithreading
